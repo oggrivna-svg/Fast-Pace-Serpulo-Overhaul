@@ -1,0 +1,4 @@
+{
+  "health": 250,
+  "requirements": [ { "item": "copper", "amount": 8 }, { "item": "lead", "amount": 8 } ]
+}

@@ -1,0 +1,5 @@
+{
+  "health": 100,
+  "speed": 0.2, // Мгновенный пропуск
+  "requirements": [ { "item": "copper", "amount": 2 } ]
+}
