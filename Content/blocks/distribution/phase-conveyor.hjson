@@ -1,0 +1,15 @@
+{
+  // Дальность связи (в оригинале всего 3 блока)
+  // Сделаем 10, чтобы он стал полезнее мостового
+  "range": 10,
+  
+  // Скорость передачи предметов
+  "itemCapacity": 20,
+  
+  "health": 150,
+  "requirements": [
+    { "item": "phase-fabric", "amount": 5 },
+    { "item": "silicon", "amount": 7 },
+    { "item": "lead", "amount": 10 }
+  ]
+}
