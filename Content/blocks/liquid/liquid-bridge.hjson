@@ -1,0 +1,9 @@
+{
+  "range": 12,           // Было 4 (теперь как у нашего моста-конвейера)
+  "hasPower": false,
+  "liquidCapacity": 60,
+  "requirements": [
+    { "item": "metaglass", "amount": 4 },
+    { "item": "lead", "amount": 4 }
+  ]
+}

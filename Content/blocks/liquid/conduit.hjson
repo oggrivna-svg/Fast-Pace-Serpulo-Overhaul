@@ -1,0 +1,8 @@
+{
+  "liquidCapacity": 50,  // Было 10 (увеличили в 5 раз)
+  "liquidPressure": 1.5, // Повысили давление для быстрого потока
+  "health": 60,          // Чуть прочнее
+  "requirements": [
+    { "item": "metaglass", "amount": 1 }
+  ]
+}

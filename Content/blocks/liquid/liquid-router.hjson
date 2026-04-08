@@ -1,0 +1,8 @@
+{
+  "liquidCapacity": 80,  // Было 20
+  "health": 100,
+  "requirements": [
+    { "item": "metaglass", "amount": 2 },
+    { "item": "lead", "amount": 4 }
+  ]
+}

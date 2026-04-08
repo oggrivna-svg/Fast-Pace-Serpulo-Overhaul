@@ -1,0 +1,9 @@
+{
+  "liquidCapacity": 100, // Было 16
+  "liquidPressure": 3.0, // Очень высокое давление
+  "health": 150,
+  "requirements": [
+    { "item": "titanium", "amount": 2 },
+    { "item": "metaglass", "amount": 1 }
+  ]
+}
