@@ -1,0 +1,10 @@
+{
+  "liquidBoostIntensity": 4.0, // Ультимативное ускорение
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.3, // Было 0.1. Один такой бур съедает целую помпу.
+      "optional": true
+    }
+  }
+}

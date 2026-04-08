@@ -1,0 +1,10 @@
+{
+  "liquidBoostIntensity": 3.5, // Лазер еще лучше реагирует на охлаждение
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.2, // Было 0.08. Требует хорошую помпу.
+      "optional": true
+    }
+  }
+}

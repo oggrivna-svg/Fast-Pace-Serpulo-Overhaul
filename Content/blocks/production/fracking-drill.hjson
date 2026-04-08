@@ -1,0 +1,28 @@
+{
+  "displayName": "Нефтяная вышка [orange]⚡[]",
+  "description": "[red]Мод: Только для Серпуло.[]\n[orange]Энергетика: Ребаланс.[]\nДобыча нефти увеличена, потребление энергии снижено.",
+  
+  // Время производства (было 1 сек, сделаем быстрее)
+  "craftTime": 40, 
+  
+  // Выход нефти (сделаем жирнее)
+  "hasLiquids": true,
+  "liquidCapacity": 100,
+  
+  "consumes": {
+    "power": 1.5, // Было 3.0 (180 ед) -> теперь ест в 2 раза меньше
+    "items": [
+      { "item": "sand", "amount": 1 }
+    ],
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.1 // Снизили потребление воды, чтобы не сушить трубы
+    }
+  },
+
+  "requirements": [
+    { "item": "titanium", "amount": 50 },
+    { "item": "silicon", "amount": 40 },
+    { "item": "graphite", "amount": 40 }
+  ]
+}

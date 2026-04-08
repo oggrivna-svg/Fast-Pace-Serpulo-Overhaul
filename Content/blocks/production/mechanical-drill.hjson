@@ -1,0 +1,7 @@
+{
+  drillTime: 180
+  tier: 2
+  requirements: [
+    copper/8
+  ]
+}

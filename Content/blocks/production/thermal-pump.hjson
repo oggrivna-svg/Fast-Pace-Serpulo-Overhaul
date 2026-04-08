@@ -1,0 +1,16 @@
+{
+  "displayName": "Водосборник [orange]⚡[]"
+  "description": "[red]Только Серпуло.[]\n[orange]В работе.[]\nУльтимативный насос. Выкачка: 350+ ед/сек."
+  "pumpAmount": 6.5
+  "liquidCapacity": 1000
+  "consumes": {
+    "power": 3.0
+  }
+  "requirements": [
+    copper/80
+    metaglass/90
+    titanium/40
+    thorium/35
+    silicon/30
+  ]
+}

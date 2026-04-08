@@ -1,0 +1,18 @@
+{
+  // Скорость выкачки (в оригинале 0.33)
+  // Делаем 1.0 (в 3 раза мощнее)
+  "pumpAmount": 1.0,
+  
+  // Объем бака внутри (было 30)
+  "liquidCapacity": 100,
+
+  "consumes": {
+    "power": 0.2 // Снизили (было 0.3), теперь он очень выгодный
+  },
+
+  "requirements": [
+    { "item": "copper", "amount": 25 },
+    { "item": "metaglass", "amount": 25 },
+    { "item": "silicon", "amount": 15 }
+  ]
+}

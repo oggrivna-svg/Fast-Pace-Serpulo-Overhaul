@@ -1,0 +1,10 @@
+{
+  "liquidBoostIntensity": 3.0, // Огромный бонус к скорости от воды
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.15, // Было 0.06. Теперь ест воду ощутимо.
+      "optional": true
+    }
+  }
+}
