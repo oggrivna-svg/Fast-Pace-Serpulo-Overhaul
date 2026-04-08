@@ -1,0 +1,8 @@
+{
+  "itemCapacity": 5000,  // Было 1000
+  "health": 1500,        // Почти как стена
+  "requirements": [
+    { "item": "titanium", "amount": 30 },
+    { "item": "thorium", "amount": 20 }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "itemCapacity": 50000,
+  "health": 12000,
+  "buildSpeedMultiplier": 5.0,
+  "unitCapModifier": 60
+}

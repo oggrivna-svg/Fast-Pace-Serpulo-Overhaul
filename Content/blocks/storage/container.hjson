@@ -1,0 +1,8 @@
+{
+  "itemCapacity": 1500,  // Было 300 (увеличили в 5 раз)
+  "health": 600,         // Станет прочнее
+  "requirements": [
+    { "item": "titanium", "amount": 10 },
+    { "item": "steel", "amount": 10 } 
+  ]
+}
